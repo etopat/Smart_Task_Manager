@@ -21,7 +21,9 @@ It was inpired by a group Coursework in Programming Fundamentals using Python mo
 
 ## 📸 Screenshots
 
-> [App Screenshot](screenshots/Screenshot-1.png) > [App Screenshot](screenshots/Screenshot-2.png) > [App Screenshot](screenshots/Screenshot-3.png)
+> [App Screenshot](screenshots/Screenshot-1.png)
+> [App Screenshot](screenshots/Screenshot-2.png)
+> [App Screenshot](screenshots/Screenshot-3.png)
 
 ---
 
