@@ -21,8 +21,7 @@ It was inpired by a group Coursework in Programming Fundamentals using Python mo
 
 ## 📸 Screenshots
 
-> (You can insert screenshots here by saving them in the folder and linking like this:)
-> `![App Screenshot](screenshots/task_manager_ui.png)`
+> [App Screenshot](screenshots/Screenshot-1.png) > [App Screenshot](screenshots/Screenshot-2.png) > [App Screenshot](screenshots/Screenshot-3.png)
 
 ---
 
